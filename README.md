@@ -11,3 +11,6 @@ pip install transformers datasets accelerate peft bitsandbytes trl
 
 # Screenshot of the fine tuning
 <img width="1041" height="533" alt="image" src="https://github.com/user-attachments/assets/0fe13084-cf28-47d4-8816-02e2415d65b0" />
+
+
+<img width="1124" height="628" alt="image" src="https://github.com/user-attachments/assets/8170b6a4-fdad-4711-a8f2-e73d7bb6055f" />
