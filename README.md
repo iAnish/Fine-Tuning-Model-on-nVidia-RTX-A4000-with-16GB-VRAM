@@ -76,3 +76,7 @@ python quantize.py
 
 
 <img width="1124" height="628" alt="image" src="https://github.com/user-attachments/assets/8170b6a4-fdad-4711-a8f2-e73d7bb6055f" />
+
+# Screenshot of Quantize
+<img width="1027" height="614" alt="image" src="https://github.com/user-attachments/assets/d6464b11-7e92-4860-9fa6-2134e2e621e3" />
+
