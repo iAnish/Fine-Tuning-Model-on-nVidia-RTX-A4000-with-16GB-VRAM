@@ -80,3 +80,6 @@ python quantize.py
 # Screenshot of Quantize
 <img width="1027" height="614" alt="image" src="https://github.com/user-attachments/assets/d6464b11-7e92-4860-9fa6-2134e2e621e3" />
 
+
+<img width="1050" height="616" alt="image" src="https://github.com/user-attachments/assets/a60d049a-24db-4636-8d39-78b800908a60" />
+
